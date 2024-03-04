@@ -4,4 +4,8 @@
 
 ## Mentee:
 - Name: Wahyu Cahyono.P
-- Program: Advanced AI
+- Program: IBM Advanced AI
+
+## Tech Stack:
+- python
+- javascript
